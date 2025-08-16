@@ -1,5 +1,3 @@
-# financial-analytics-platform
-comprehensive financial data analytics platform for regulatory reporting and business intelligence
 # Financial Data Analytics Platform
 
 A comprehensive platform for financial data analysis, regulatory reporting, and business intelligence.
